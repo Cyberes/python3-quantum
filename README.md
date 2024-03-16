@@ -5,7 +5,7 @@ Quantum computing is super cool and this package makes it easy to use it in Pyth
 
 ## Install
 ```shell
-pip install pip install git+https://github.com/Cyberes/python3-quantum
+pip install git+https://github.com/Cyberes/python3-quantum
 ```
 
 ## Usage
