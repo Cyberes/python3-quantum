@@ -2,7 +2,7 @@
 name = "python-quantum"
 version = "1.0"
 authors = [
-    { name = "Cyberes", email = "cyberes@evulid.cc" },
+    { name = "Cyberes", email = "cyberes@example.com" },
 ]
 description = "Bring quantum computing to Python!"
 readme = "README.md"
