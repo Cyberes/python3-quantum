@@ -1,0 +1,17 @@
+[project]
+name = "python-quantum"
+version = "1.0"
+authors = [
+    { name = "Cyberes", email = "cyberes@evulid.cc" },
+]
+description = "Bring quantum computing to Python!"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/cyberes/python3-quantum"
+Issues = "https://github.com/cyberes/python3-quantum/issues"
