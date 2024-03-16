@@ -1,3 +1,17 @@
 # python3-quantum
+_Bring quantum computing to Python!_
 
-Bring quantum computing to Python!
+Quantum computing is super cool and this package makes it easy to use it in Python 3.
+
+## Install
+```shell
+pip install python3-quantum
+```
+
+## Usage
+
+```python
+from quantum import tralse
+if tralse:
+    print('Hello world!')
+```
